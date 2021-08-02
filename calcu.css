@@ -8,8 +8,6 @@
 body{
   margin: 5% 33% 5%;
   font-family: 'Roboto', sans-serif;
-  outline-style:solid;
-  outline-color:coral;
   user-select: none;
   background: rgba(0, 0, 0, 0.85);
   color: white;
